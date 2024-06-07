@@ -95,6 +95,6 @@ python test.py
 2. Go to folder 'Train' and run the training codes:
 
 ```
-python TrainiQSM.py
+python TrainIR2UNet.py
 ```
 
