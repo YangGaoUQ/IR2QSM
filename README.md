@@ -49,7 +49,7 @@ Evaluate codes:
 
 - test.py ---- For IR2QSM reconstruction
 - IR2Unet.py and IR2UnetBlocks.py ---- implementation of IR2Unet
-- model_IR2Unet.pth - https://drive.google.com/file/d/1-uT5cChrPZLUVMj1wCGLGfqMjtr8kECp/view?usp=drive_link
+- model_IR2Unet.pth - [https://drive.google.com/file/d/1-uT5cChrPZLUVMj1wCGLGfqMjtr8kECp/view?usp=drive_link](https://drive.google.com/file/d/1EGZGxdgVWI8r0RlyfjP-xQyOL88vLeDf/view?usp=sharing)
 
 Train codes:
 - TrainingDataLoad.py ---- data loader during training
