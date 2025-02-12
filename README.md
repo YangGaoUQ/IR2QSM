@@ -3,6 +3,8 @@
 - This repository is a novel deep neural network for quantitative susceptibility mapping (i.e., IR2QSM), enabling QSM reconstrcution from local field.
 - This code was built and tested on ubuntu 19.10 with Nvidia Tesla A6000.
 
+- Pretained model and demo data can be found at https://drive.google.com/file/d/1S4SkhB-Lqz1D3lf4Q5UHdrpimRo7udbL/view?usp=sharing 
+
 ## Content
 
 - Overview
